@@ -47,3 +47,18 @@ switch(day){
 }
 console.log("today is : "+day)
 
+//////////////////////////////////////
+//function
+
+let num1 = 12;
+let num2 = 23;
+let num3 = 34;
+
+function num_sum(){
+
+   let num_total = num1 + num2 + num3;
+   
+   console.log(num_total);
+}
+
+num_sum()
